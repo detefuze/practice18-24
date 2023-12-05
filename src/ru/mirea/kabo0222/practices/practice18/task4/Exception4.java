@@ -1,4 +1,4 @@
-package ru.mirea.kabo0222.exceptions.task4;
+package ru.mirea.kabo0222.practices.practice18.task4;
 import java.util.Scanner;
 
 // Вывод: несмотря на существование или отсутствие ошибки, блок finally будет вызываться всегда

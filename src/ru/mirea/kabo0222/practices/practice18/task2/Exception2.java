@@ -1,4 +1,4 @@
-package ru.mirea.kabo0222.exceptions.task2;
+package ru.mirea.kabo0222.practices.practice18.task2;
 import java.util.*;
 public class Exception2 {
     public void exceptionDemo() {

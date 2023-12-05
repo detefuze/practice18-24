@@ -1,4 +1,4 @@
-package ru.mirea.kabo0222.exceptions.task5_6;
+package ru.mirea.kabo0222.practices.practice18.task5_6;
 
 public class ThrowsDemo {
     public void printMessage(String key)

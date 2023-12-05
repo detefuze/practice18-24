@@ -1,4 +1,4 @@
-package ru.mirea.kabo0222.exceptions.task3;
+package ru.mirea.kabo0222.practices.practice18.task3;
 import java.util.Scanner;
 
 // Вывод: когда мы ловим Exception, то ловим все виды исключений (потомков) класса Exception
